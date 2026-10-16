@@ -6,14 +6,10 @@ Official community translation repository for the **Links** Android app.
 
 ```
 ├── languages_index.json       # Index catalog containing metadata for all available languages
-├── languages/                 # Translation JSON files ready to be downloaded by the app
-│   ├── it.json                # Italian
-│   ├── pt.json                # Portuguese
-│   ├── hi.json                # Hindi
-│   └── ...
-└── xml/                       # Original Android strings.xml files (for reference and translation tools)
-    ├── strings-it.xml
-    ├── strings-pt.xml
+└── languages/                 # Translation JSON files ready to be downloaded by the app
+    ├── it.json                # Italian
+    ├── pt.json                # Portuguese
+    ├── hi.json                # Hindi
     └── ...
 ```
 
