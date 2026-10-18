@@ -1,0 +1,284 @@
+{
+  "languages": [
+    {
+      "code": "ar",
+      "name": "العربية",
+      "english_name": "Arabic",
+      "direction": "rtl",
+      "file": "languages/ar.json",
+      "string_count": 639
+    },
+    {
+      "code": "az",
+      "name": "Azərbaycan",
+      "english_name": "Azerbaijani",
+      "direction": "ltr",
+      "file": "languages/az.json",
+      "string_count": 539
+    },
+    {
+      "code": "be",
+      "name": "Беларуская",
+      "english_name": "Belarusian",
+      "direction": "ltr",
+      "file": "languages/be.json",
+      "string_count": 539
+    },
+    {
+      "code": "cs",
+      "name": "Čeština",
+      "english_name": "Czech",
+      "direction": "ltr",
+      "file": "languages/cs.json",
+      "string_count": 539
+    },
+    {
+      "code": "da",
+      "name": "Dansk",
+      "english_name": "Danish",
+      "direction": "ltr",
+      "file": "languages/da.json",
+      "string_count": 538
+    },
+    {
+      "code": "de",
+      "name": "Deutsch",
+      "english_name": "German",
+      "direction": "ltr",
+      "file": "languages/de.json",
+      "string_count": 538
+    },
+    {
+      "code": "el",
+      "name": "Ελληνικά",
+      "english_name": "Greek",
+      "direction": "ltr",
+      "file": "languages/el.json",
+      "string_count": 538
+    },
+    {
+      "code": "en",
+      "name": "English",
+      "english_name": "English",
+      "direction": "ltr",
+      "file": "languages/en.json",
+      "string_count": 646
+    },
+    {
+      "code": "es",
+      "name": "Español",
+      "english_name": "Spanish",
+      "direction": "ltr",
+      "file": "languages/es.json",
+      "string_count": 536
+    },
+    {
+      "code": "fa",
+      "name": "فارسی",
+      "english_name": "Persian",
+      "direction": "rtl",
+      "file": "languages/fa.json",
+      "string_count": 538
+    },
+    {
+      "code": "fil",
+      "name": "Filipino",
+      "english_name": "Filipino",
+      "direction": "ltr",
+      "file": "languages/fil.json",
+      "string_count": 539
+    },
+    {
+      "code": "fr",
+      "name": "Français",
+      "english_name": "French",
+      "direction": "ltr",
+      "file": "languages/fr.json",
+      "string_count": 553
+    },
+    {
+      "code": "hi",
+      "name": "हिन्दी",
+      "english_name": "Hindi",
+      "direction": "ltr",
+      "file": "languages/hi.json",
+      "string_count": 539
+    },
+    {
+      "code": "hr",
+      "name": "Hrvatski",
+      "english_name": "Croatian",
+      "direction": "ltr",
+      "file": "languages/hr.json",
+      "string_count": 539
+    },
+    {
+      "code": "hu",
+      "name": "Magyar",
+      "english_name": "Hungarian",
+      "direction": "ltr",
+      "file": "languages/hu.json",
+      "string_count": 539
+    },
+    {
+      "code": "in",
+      "name": "Bahasa Indonesia",
+      "english_name": "Indonesian",
+      "direction": "ltr",
+      "file": "languages/in.json",
+      "string_count": 536
+    },
+    {
+      "code": "it",
+      "name": "Italiano",
+      "english_name": "Italian",
+      "direction": "ltr",
+      "file": "languages/it.json",
+      "string_count": 536
+    },
+    {
+      "code": "ja",
+      "name": "日本語",
+      "english_name": "Japanese",
+      "direction": "ltr",
+      "file": "languages/ja.json",
+      "string_count": 536
+    },
+    {
+      "code": "ko",
+      "name": "한국어",
+      "english_name": "Korean",
+      "direction": "ltr",
+      "file": "languages/ko.json",
+      "string_count": 536
+    },
+    {
+      "code": "mn",
+      "name": "Монгол",
+      "english_name": "Mongolian",
+      "direction": "ltr",
+      "file": "languages/mn.json",
+      "string_count": 536
+    },
+    {
+      "code": "ms",
+      "name": "Bahasa Melayu",
+      "english_name": "Malay",
+      "direction": "ltr",
+      "file": "languages/ms.json",
+      "string_count": 546
+    },
+    {
+      "code": "nl",
+      "name": "Nederlands",
+      "english_name": "Dutch",
+      "direction": "ltr",
+      "file": "languages/nl.json",
+      "string_count": 546
+    },
+    {
+      "code": "pl",
+      "name": "Polski",
+      "english_name": "Polish",
+      "direction": "ltr",
+      "file": "languages/pl.json",
+      "string_count": 546
+    },
+    {
+      "code": "pt",
+      "name": "Português",
+      "english_name": "Portuguese",
+      "direction": "ltr",
+      "file": "languages/pt.json",
+      "string_count": 546
+    },
+    {
+      "code": "ru",
+      "name": "Русский",
+      "english_name": "Russian",
+      "direction": "ltr",
+      "file": "languages/ru.json",
+      "string_count": 546
+    },
+    {
+      "code": "si",
+      "name": "සිංහල",
+      "english_name": "Sinhala",
+      "direction": "ltr",
+      "file": "languages/si.json",
+      "string_count": 538
+    },
+    {
+      "code": "sr",
+      "name": "Српски",
+      "english_name": "Serbian",
+      "direction": "ltr",
+      "file": "languages/sr.json",
+      "string_count": 537
+    },
+    {
+      "code": "sv",
+      "name": "Svenska",
+      "english_name": "Swedish",
+      "direction": "ltr",
+      "file": "languages/sv.json",
+      "string_count": 538
+    },
+    {
+      "code": "th",
+      "name": "ไทย",
+      "english_name": "Thai",
+      "direction": "ltr",
+      "file": "languages/th.json",
+      "string_count": 538
+    },
+    {
+      "code": "tr",
+      "name": "Türkçe",
+      "english_name": "Turkish",
+      "direction": "ltr",
+      "file": "languages/tr.json",
+      "string_count": 538
+    },
+    {
+      "code": "uk",
+      "name": "Українська",
+      "english_name": "Ukrainian",
+      "direction": "ltr",
+      "file": "languages/uk.json",
+      "string_count": 534
+    },
+    {
+      "code": "vi",
+      "name": "Tiếng Việt",
+      "english_name": "Vietnamese",
+      "direction": "ltr",
+      "file": "languages/vi.json",
+      "string_count": 534
+    },
+    {
+      "code": "zgh",
+      "name": "ⵜⴰⵎⴰⵣⵉⵖⵜ",
+      "english_name": "Standard Moroccan Tamazight",
+      "direction": "ltr",
+      "file": "languages/zgh.json",
+      "string_count": 539
+    },
+    {
+      "code": "zh-Hans",
+      "name": "简体中文",
+      "english_name": "Chinese Simplified",
+      "direction": "ltr",
+      "file": "languages/zh-Hans.json",
+      "string_count": 534
+    },
+    {
+      "code": "zh-Hant",
+      "name": "繁體中文",
+      "english_name": "Chinese Traditional",
+      "direction": "ltr",
+      "file": "languages/zh-Hant.json",
+      "string_count": 534
+    }
+  ]
+}
